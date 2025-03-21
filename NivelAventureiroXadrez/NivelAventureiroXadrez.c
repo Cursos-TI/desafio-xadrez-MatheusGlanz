@@ -61,7 +61,8 @@ int main(){
                {
                 for (cavalo = 1; cavalo < 2; cavalo++) 
                 {
-                   printf("Cavalo desceu 2 casas\n");
+                    printf("Cavalo Escolhido\n");
+                   printf("Cavalo Subiu 2 casas\n");
                }
                printf("E virou 1 casa para Direita\n");
             }
@@ -94,4 +95,3 @@ int main(){
     
         return 0;
     }
-
